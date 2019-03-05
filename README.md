@@ -1,0 +1,2 @@
+# linuxfirst-project
+hello linux
